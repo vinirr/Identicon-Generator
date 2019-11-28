@@ -1,11 +1,13 @@
 # Identicon
 
-**TODO: Add description**
+**Generate a 250x250 identicon by a hash of string**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `identicon` to your list of dependencies in `mix.exs`:
+
+Run mix local.rebar --force to install rebar (and rebar3)
 
 ```elixir
 def deps do
